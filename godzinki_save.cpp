@@ -1,8 +1,7 @@
 #include <iostream>
 #include <windows.h>
 #include <fstream>
-//#include <cstdlib>
-//#include <string>
+
 using namespace std;
 
 fstream plik_godziny;

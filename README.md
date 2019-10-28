@@ -19,7 +19,7 @@ Plik godzinki_load odpowiada za wczytanie wypełnionego pliku txt, wyliczenie go
   3. Program wylicza osobno każdy dzień i na koniec sumę godzin pracy, po czym wyświetla je użytkownikowi
   
 pomysły, sugestie i todo:
--poproś użytkownika o podanie stawki brutto/h i wylicz miesięczną pensję
--ustal nazwę pliku zależnie od podanego przez użytkownika nru miesiąca
--przerobić program na oop
--poprawka dla nocnej zmiany, gdzie czas pracy przekracza granicę północy
+  - poproś użytkownika o podanie stawki brutto/h i wylicz miesięczną pensję
+  - ustal nazwę pliku zależnie od podanego przez użytkownika nru miesiąca
+  - przerobić program na oop
+  - poprawka dla nocnej zmiany, gdzie czas pracy przekracza granicę północy

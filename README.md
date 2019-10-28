@@ -16,7 +16,7 @@ Plik godzinki_load odpowiada za wczytanie wypełnionego pliku txt, wyliczenie go
   2. Program wczytuje odpowiedni plik
   3. Program wylicza osobno każdy dzień i na koniec sumę godzin pracy, po czym wyświetla je użytkownikowi
   
-* * - jeszcze nie zrobione
+pkt 4_save i 1_load jeszcze nie zrobione
  
 pomysły, sugestie i todo:
   - poproś użytkownika o podanie stawki brutto/h i wylicz miesięczną pensję
